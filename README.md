@@ -20,5 +20,5 @@
 - [Follow me on Twitter](https://twitter.com/AliDev94)
 - [Check out my blog](https://medium.com/@ali.dev)
 
-## Everything else
+### 🍏 Everything else
 - 有難うございます。
