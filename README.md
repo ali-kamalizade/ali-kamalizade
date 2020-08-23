@@ -14,6 +14,11 @@
 - 🇩🇪 [Sportwetten news](https://www.sportwetten.de/news): Development of a news portal on which articles and analyses about current sporting events are regularly published for a customer. Main technologies: Wordpress, PHP, JavaScript
 - 🇩🇪 Development of an intelligent digitisation platform that allows companies to immediately benefit from the advantages of digital technologies at an IT company in Cologne. Main technologies: Angular, TypeScript
 
+### 💻 Open Source
+
+- [text-select](https://github.com/ali-kamalizade/text-select): a tiny and helpful library to easily select text on web pages
+- [better-protractor](https://github.com/ali-kamalizade/better-protractor): write better end-to-end tests by providing a simple API on top of Protractor
+
 ### 🌏 Let's connect
 
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/alikamalizade)
