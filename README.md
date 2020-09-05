@@ -16,7 +16,7 @@
 
 ### 💻 Open Source
 
-- [es-check-action](https://github.com/marketplace/actions/es-check-action): checks JavaScript files against a specified version of ECMAScript (ES). If a specified file's ES version doesn't match the ES version argument, this action will throw an error and log the files that didn't match the check.
+- [es-check-action](https://github.com/marketplace/actions/es-check-action): a GitHub action which checks JavaScript files against a specified version of ECMAScript (ES). If a specified file's ES version doesn't match the ES version argument, this action will throw an error.
 - [text-select](https://github.com/ali-kamalizade/text-select): a tiny and helpful JavaScript library to easily select text on web pages
 - [better-protractor](https://github.com/ali-kamalizade/better-protractor): write better end-to-end tests by providing a simple API on top of Protractor
 - ?
