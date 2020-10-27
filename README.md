@@ -46,7 +46,7 @@
 
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/alikamalizade)
 - [Follow me on Twitter](https://twitter.com/AliDev94)
-- [Check out my blog](https://medium.com/@ali.dev)
+- [Check out my blog](https://ali-dev.medium.com)
 
 ### 🍏 Everything else
 
