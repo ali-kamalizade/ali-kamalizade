@@ -8,7 +8,7 @@
 
 ### 🚀 Experience
 
-- 🇩🇪 ⭐️ Development of a Software-as-a-Service platform for Enterprise Architecture (EA), enabling organizations to make faster, data-driven decisions at [LeanIX](https://www.leanix.net/en) in Bonn. Main technologies: Angular, TypeScript, Java
+- 🇩🇪 ⭐️ Development of a Software-as-a-Service platform for Enterprise Architecture (EA), enabling organizations to make faster, data-driven decisions at [LeanIX](https://www.leanix.net/en) in Bonn. Main technologies: Angular, TypeScript, Java, Node.js
 - 🇩🇪 ⭐️ Development of a Software-as-a-Service application to manage and book workspaces and meetingrooms to enable companies to use desk sharing at [Sedeo](https://sedeo.net) in Cologne. Main technologies: Angular, TypeScript, Java, Node.js, MongoDB
 - 🇩🇪 Development of a B2B software in the area of app pre-installation at [freenet Group](https://www.freenet-group.de/en/index.html) (remote). Main technologies: Java
 - 🇩🇪 [Sportwetten news](https://www.sportwetten.de/news): Development of a news portal on which articles and analyses about current sporting events are regularly published for a customer. Main technologies: WordPress, PHP, JavaScript
@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" title="Android" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" title="Angular" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" title="Angular, not Angular.js ;)" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" title="Bulma" width="40" height="40"/>   
   <img src="https://i.ibb.co/CWQq8gw/cypress.webp" title="Cypress" width="80" height="40"/>
@@ -38,9 +38,16 @@
 ### 💻 Open Source
 
 - [es-check-action](https://github.com/marketplace/actions/es-check-action): a GitHub action which checks JavaScript files against a specified version of ECMAScript (ES). If a specified file's ES version doesn't match the ES version argument, this action will throw an error.
-- [text-select](https://github.com/ali-kamalizade/text-select): a tiny and helpful JavaScript library to easily select text on web pages
-- [better-protractor](https://github.com/ali-kamalizade/better-protractor): write better end-to-end tests by providing a simple API on top of Protractor
-- ?
+- [text-select](https://github.com/ali-kamalizade/text-select): a tiny and helpful JavaScript library to easily select text on web pages. Available on NPM.
+- [better-protractor](https://github.com/ali-kamalizade/better-protractor): write better end-to-end tests by providing a simple API on top of Protractor. Available on NPM.
+- 🚧
+
+### 🖤 Getting things done with
+
+- [Netlify](https://www.netlify.com)
+- [GitHub](https://github.com/) (obviously)
+- [Render](https://render.com)
+- [MongoDB](https://www.mongodb.com/cloud/atlas)
 
 ### 🌏 Let's connect
 
