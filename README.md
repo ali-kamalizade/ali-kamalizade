@@ -40,6 +40,7 @@
 - [es-check-action](https://github.com/marketplace/actions/es-check-action): a GitHub action which checks JavaScript files against a specified version of ECMAScript (ES). If a specified file's ES version doesn't match the ES version argument, this action will throw an error.
 - [text-select](https://github.com/ali-kamalizade/text-select): a tiny and helpful JavaScript library to easily select text on web pages. Available on NPM.
 - [better-protractor](https://github.com/ali-kamalizade/better-protractor): write better end-to-end tests by providing a simple API on top of Protractor. Available on NPM.
+- [scripts](https://github.com/ali-kamalizade/scripts): a collection of reusable scripts, functions and aliases related to development 
 - 🚧
 
 ### 🖤 Getting things done with
