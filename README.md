@@ -8,8 +8,8 @@
 
 ### 🚀 Experience
 
-- 🇩🇪 ⭐️ Development of a Software-as-a-Service platform for Enterprise Architecture (EA), enabling organizations to make faster, data-driven decisions at [LeanIX](https://www.leanix.net/en) in Bonn. Tech stack: Angular, TypeScript, Java, Node.js, Bootstrap
-- 🇩🇪 ⭐️ Development of a Software-as-a-Service application to manage and book workspaces and meetingrooms to enable companies to use desk sharing at [Sedeo](https://sedeo.net) in Cologne. Tech stack: Angular, TypeScript, Java, Node.js, MongoDB, Bulma
+- 🇩🇪 ⭐️ Development of a Software-as-a-Service platform for Enterprise Architecture (EA), enabling organizations to make faster, data-driven decisions at [LeanIX](https://www.leanix.net/en) in Bonn. Tech stack: Angular, TypeScript, Java, Node.js, Bootstrap, Protractor
+- 🇩🇪 ⭐️ Development of a Software-as-a-Service application to manage and book workspaces and meetingrooms to enable companies to use desk sharing at [Sedeo](https://sedeo.net) in Cologne. Tech stack: Angular, TypeScript, Java, Node.js, MongoDB, Bulma, Protractor
 - 🇩🇪 Development of a B2B software in the area of app pre-installation at [freenet Group](https://www.freenet-group.de/en/index.html) (remote). Tech stack: Java, Android
 - 🇩🇪 [Sportwetten news](https://www.sportwetten.de/news): Development of a news portal on which articles and analyses about current sporting events are regularly published for a customer. Tech stack: WordPress, PHP, JavaScript, Bootstrap
 - 🇩🇪 Development of an intelligent digitisation platform that allows companies to immediately benefit from the advantages of digital technologies at an IT company in Cologne. Tech stack: Angular, TypeScript, Bootstrap
