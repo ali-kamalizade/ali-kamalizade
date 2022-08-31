@@ -1,8 +1,8 @@
 ### ✋ About myself
 
-- Co-founder of Sunhat
+- Co-founder of [Sunhat](https://github.com/sunhat-tech)
 - Previously Senior Software Engineer at [LeanIX](https://www.leanix.net/en) & Co-founder of [Sedeo](https://sedeo.net)
-- I like to work with Angular, Node.js, TypeScript and Vue.js
+- I like to work with Angular, Nest.js, TypeScript and Vue.js
 - Passion for software engineering, SaaS, startups, test-driven development, creating fancy UIs and more
 - Looking forward to build great things
 
