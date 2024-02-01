@@ -4,7 +4,7 @@
 - Previously Senior Software Engineer at [LeanIX](https://www.leanix.net/en) & Co-founder of [Sedeo](https://sedeo.net)
 - I like to work with Angular, Nest.js, TypeScript and Vue.js
 - Passion for software engineering, SaaS, startups, test-driven development, creating fancy UIs and more
-- Looking forward to build great things
+- Looking forward to building great things
 
 ### 🚀 Experience
 
