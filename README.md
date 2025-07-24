@@ -1,6 +1,6 @@
 ### ✋ About myself
 
-- Co-founder of [Sunhat](https://github.com/sunhat-tech)
+- Co-founder of [Sunhat](https://github.com/sunhat-tech): building an AI-powered infrastructure for orchestrating, creating, and delivering enterprise-grade responses to complex stakeholder requests across responsibility and risk domains like sustainability, safety, and compliance
 - Previously Senior Software Engineer at [LeanIX](https://www.leanix.net/en) & Co-founder of [Sedeo](https://sedeo.net)
 - I like to work with Angular, Nest.js, TypeScript and Vue.js
 - Passion for software engineering, SaaS, startups, test-driven development, creating fancy UIs and more
